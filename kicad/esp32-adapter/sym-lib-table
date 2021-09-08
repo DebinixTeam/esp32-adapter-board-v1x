@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name MY-BME680-BOARDS)(type Legacy)(uri ${KIPRJMOD}/MY-BME680-BOARDS.lib)(options "")(descr "BME680 breakout boards"))
+  (lib (name MY-ESP32-DEVKITC-32D)(type Legacy)(uri /home/bekr/secondary-folders/KICAD-2021/esp32-adapter/libs-downloaded/symbols/ESP32-DEVKITC-32D.lib)(options "")(descr ESP32-DevkitC-32D))
+  (lib (name MY-ESP32-BOARDS)(type Legacy)(uri /home/bekr/secondary-folders/KICAD-2021/esp32-adapter/kicad/esp32-adapter-symbols/MY-ESP32-BOARDS.lib)(options "")(descr ""))
+  (lib (name MY-SPI-TFT-DISPLAYS)(type Legacy)(uri /home/bekr/secondary-folders/KICAD-2021/esp32-adapter/kicad/esp32-adapter-symbols/MY-SPI-TFT-DISPLAYS.lib)(options "")(descr ""))
+)

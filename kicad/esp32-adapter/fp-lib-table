@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MY-ESP32)(type KiCad)(uri /home/bekr/secondary-folders/KICAD-2021/esp32-adapter/libs-downloaded/footprints.pretty)(options "")(descr ""))
+  (lib (name MY-FOOTPRINTS)(type KiCad)(uri /home/bekr/secondary-folders/KICAD-2021/esp32-adapter/kicad/esp32-adapter-footprints.pretty)(options "")(descr ""))
+)

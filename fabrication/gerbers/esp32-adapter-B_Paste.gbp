@@ -1,0 +1,15 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.99.0+really5.1.10+dfsg1-1*
+G04 #@! TF.CreationDate,2021-09-08T20:42:20+02:00*
+G04 #@! TF.ProjectId,esp32-adapter,65737033-322d-4616-9461-707465722e6b,1.0*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.99.0+really5.1.10+dfsg1-1) date 2021-09-08 20:42:20*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+M02*

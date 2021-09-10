@@ -41,6 +41,6 @@ You have the choice to use [female headers](https://www.amazon.com/Glarks-Straig
 ## Other sources of the adapter board
 You can also purchase the latest designed boards on `Tindie`. 
 
-[![Tindie](./images/tindie-small.png)](https://www.tindie.com/stores/debinix/)
+[![Tindie](./images/tindie-small.png)](https://www.tindie.com/products/debinix/common-esp32s-on-one-adapter-board/)
 
 I appreciate your support.

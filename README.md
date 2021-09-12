@@ -2,7 +2,21 @@
 
 # The Amazing ESP32 Adapter Board v1.x
 
- This adapter board is used to create a `nautical precision barometer` with an unique pressure history function. This project is well documented in this [instructable](https://www.instructables.com). 
+## Use cases 
+ 
+ * This adapter board was used to create a [nautical precision barometer](https://github.com/DebinixTeam/esp32-nautical-barometer-gold) with a unique pressure history function. This [instructable](https://www.instructables.com) documents the project.
+
+* The adapter board has numerous I2C header positions for various pressure sensors. However, any I2C breakout board can be used with DuPont wires to match individual signals.
+
+* Almost every ESP32 DIY project requires a TFT SPI display, and this is already built-in. Just plug-and-play. 
+
+* Use the auxiliary connector to test touch panel functionality if the display supports it.
+
+* Use the UART TX port for code debugging.
+
+* Test various ESP32 modules, easy to swap out before deciding which one to put into an actual product.
+
+* The routed GPIO are the ones required for SPI and I2C buses. Thus, it eliminates the breadboard DuPont wire bus rats net!
 
 ## Specification for `The Amazing ESP32 Adapter Board v1.x`
 

@@ -4,7 +4,7 @@
 
 ## Use cases 
  
- * This adapter board was used to create a [nautical precision barometer](https://github.com/DebinixTeam/esp32-nautical-barometer-gold) with a unique pressure history function. This [instructable](https://www.instructables.com) documents the project.
+ * This adapter board was used to create a [nautical precision barometer](https://github.com/DebinixTeam/esp32-nautical-barometer-gold) with a unique pressure history function. This [instructable](https://www.instructables.com) documents the project. Find the tested ESP32 modules and pressure sensor in the nautical barometer project [here](https://github.com/DebinixTeam/esp32-nautical-barometer-gold/blob/master/hw-compatibility-list.md).
 
 * The adapter board has numerous I2C header positions for various pressure sensors. However, any I2C breakout board can be used with DuPont wires to match individual signals.
 
@@ -18,7 +18,9 @@
 
 * The routed GPIO are the ones required for SPI and I2C buses. Thus, it eliminates the breadboard DuPont wire bus rats net!
 
-## Specification for `The Amazing ESP32 Adapter Board v1.x`
+* Solder `female headers` to the ESP development module, and you have access to all other signals via DuPont wires to a breadboard.
+
+## Specification for The Amazing ESP32 Adapter Board v1.x
 
 This adapter board is fabricated as two layer board with the dimensions 5.4"x6.6" (137.16 x 167.64 mm).
 

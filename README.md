@@ -4,7 +4,7 @@
 
 ## Use cases 
  
- * This adapter board was used to create a [nautical precision barometer](https://github.com/DebinixTeam/esp32-nautical-barometer-gold) with a unique pressure history function. This [instructable](https://www.instructables.com) documents the project. Find the tested ESP32 modules and pressure sensor in the nautical barometer project [here](https://github.com/DebinixTeam/esp32-nautical-barometer-gold/blob/master/hw-compatibility-list.md).
+ * This adapter board was used to create a [nautical precision barometer](https://github.com/DebinixTeam/esp32-nautical-barometer-gold) with a unique pressure history function. This [instructable](https://www.instructables.com/Your-Nautical-Barometer-Gold-for-Precise-Weather-F/) documents the project. Find the tested ESP32 modules and pressure sensor in the nautical barometer project [here](https://github.com/DebinixTeam/esp32-nautical-barometer-gold/blob/master/hw-compatibility-list.md).
 
 * The adapter board has numerous I2C header positions for various pressure sensors. However, any I2C breakout board can be used with DuPont wires to match individual signals.
 
